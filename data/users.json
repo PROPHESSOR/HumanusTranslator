@@ -1,0 +1,11 @@
+[
+    {
+        "login": "Original",
+        "password": "You shouldn't be here...",
+        "translated": 0,
+        "checked": 0,
+        "registered": "{date}",
+        "isadmin": false,
+        "ips": []
+    }
+]
